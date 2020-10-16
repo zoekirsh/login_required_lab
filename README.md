@@ -26,5 +26,3 @@ Use the specs as your guide, but we'd like the following behavior. We should be 
   * The content and URL of the secret page are up to you. However, if we visit that URL without logging in, we should be redirected to the login page. Under no circumstances should we allow people who are not logged in to see the secrets.
 
 Happy coding!
-
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/login_required_lab' title='Login Required Lab'>Login Required Lab</a> on Learn.co and start learning to code for free.</p>
