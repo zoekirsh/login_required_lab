@@ -1,0 +1,7 @@
+<h1>Please type your name to enter: </h1>
+<div>
+<%= form_tag ({controller: 'sessions', action: 'create', method: 'post'}) do %>
+  <input name=name>
+  <input type=submit value='login'>
+<% end %>
+</div>
